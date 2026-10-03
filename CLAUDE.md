@@ -43,7 +43,7 @@ Benutzerdefinierte Vorlagen für Hefteinträge, Tests und Arbeitsblätter. Wird 
 | Skill | Aufruf | Zweck |
 |---|---|---|
 | Unterricht | `/lehrer-agent:unterricht` | Unterrichtsstunden vorbereiten, Tafelbilder, Hefteinträge, Arbeitsblätter |
-| Leistungskontrolle | `/lehrer-agent:leistungskontrolle` | Tests, Klassenarbeiten, TÜ als .docx mit A/B-Kurs-Differenzierung |
+| Leistungskontrolle | `/lehrer-agent:leistungskontrolle` | Tests, Klassenarbeiten, TÜ als .docx mit A/B-Kurs-Differenzierung (bei Förderschwerpunkt ganzheitliche Entwicklung: individuelle Lernstandskontrolle) |
 | Material | `/lehrer-agent:material` | Unterrichtsmaterial sammeln aus BiBox, Verlags-Plattformen und Web-Quellen |
 | VV | `/lehrer-agent:vv` | Verwaltungsvorschriften und Schulrecht nachschlagen (alle Bundesländer) |
 

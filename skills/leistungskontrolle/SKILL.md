@@ -85,6 +85,10 @@ Konsultiere `reference/aufgabentypen.md` für konkrete Aufgabenbeispiele pro Fac
 
 ## Differenzierung
 
+### Individueller Lernstand (Förderschwerpunkt ganzheitliche Entwicklung)
+
+Bei Schülern mit Förderschwerpunkt ganzheitliche Entwicklung / ganzheitliches Lernen gibt es **keine A/B-Kurs-Varianten** und keine Notenumrechnung. Erzeuge stattdessen eine einzige individuelle Lernstandskontrolle: wenige Aufgaben, einfache Sprache, große Schrift, Bildunterstützung, ein Lösungsbeispiel am Anfang, Rückmeldung als Kompetenzeinschätzung. Format und Bewertung vorher mit der Lehrkraft und den geltenden Vorgaben (`/lehrer-agent:vv`) abstimmen.
+
 ### A-Kurs vs. B-Kurs
 
 Zwei Muster (können kombiniert werden):

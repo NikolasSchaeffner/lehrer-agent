@@ -80,10 +80,13 @@ Falls der Schultyp einen Förderschwerpunkt hat, existieren zusätzliche Ergänz
 | Hören | `hoeren_` | Visuelle Methoden, Gebärdenunterstützung, Akustik-Anpassungen |
 | Emotionale-soziale Entwicklung (ESE) | `ese_` | Strukturierung, Deeskalation, Token-Systeme, Beziehungsarbeit |
 | Lernen | `lernen_` | Vereinfachung, Anschaulichkeit, reduzierte Lernziele, Lebensweltbezug |
+| Ganzheitliche Entwicklung / ganzheitliches Lernen | `ganzheitlich_` | Individueller Lernstand statt Klassenstufe, EIS-Prinzip, altersgerechte Gestaltung bei Grundschul-Niveau (nur Deutsch und Mathematik) |
 
 Dateien pro Förderschwerpunkt: `<präfix>mathematik.md`, `<präfix>deutsch.md`, `<präfix>englisch.md`, `<präfix>physik.md`, `<präfix>chemie.md`
 
 **Nur laden wenn der Schultyp einen Förderschwerpunkt hat.**
+
+**Individueller Lernstand (ganzheitlich_):** Bei diesem Förderschwerpunkt gibt es keine Klassenstufen-Zuordnung und keine A/B-Kurse. Frage nach dem aktuellen Leistungsstand je Bereich (Lesen, Schreiben, Rechnen) und richte Inhalte, Sprache und Umfang daran aus. Gestalte Material altersgerecht für die tatsächliche Altersstufe, nicht für die Klassenstufe des Leistungsniveaus. Der Rahmenlehrplan des Bundeslandes unter `didaktik/lehrplan/` gilt für Regelschulen und ist hier nur Orientierung.
 
 ## Wichtigste Regel: FRAGEN STELLEN, NICHT FERTIG LIEFERN
 
